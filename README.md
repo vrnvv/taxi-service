@@ -35,8 +35,9 @@ JSP
 
 ### Installation:
 1. Clone the project
-2. Install MySQL and Apache Tomcat 9.0.76
-3. Copy and run SQL script from resources/init_db.sql
-4. Write your properties to ConnectionUtil class
-5. Configure Apache Tomcat version: 9.0.76
-6. Run the project
+2. [Install MySQL]([https://www.google.com](https://downloads.mysql.com/archives/installer/))
+3. [Install Apache Tomcat] (https://tomcat.apache.org/download-90.cgi)
+4. Copy and run SQL script from resources/init_db.sql
+5. Write your properties to ConnectionUtil class
+6. Configure Apache Tomcat version: 9.0.76
+7. Run the project
