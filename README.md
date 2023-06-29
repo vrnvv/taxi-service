@@ -24,14 +24,14 @@ Service - accepts requests from the controller, passes them to the DAO layer, an
 DAO - accepts requests from the service, passes them to the DB, and executes all sql queries
 
 ### Technologies:
-Tomcat 9.0.76
-Maven 3.1.1
-Java 11
-MySQL 8.0.22
-Servlet Api 4.0.1
-JSTL 1.2
-JDBC
-JSP
+* Tomcat 9.0.76
+* Maven 3.1.1
+* Java 11
+* MySQL 8.0.22
+* Servlet Api 4.0.1
+* JSTL 1.2
+* JDBC
+* JSP
 
 ### Installation:
 1. Clone the project
