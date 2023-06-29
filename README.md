@@ -38,6 +38,6 @@ JSP
 2. [Install MySQL](https://downloads.mysql.com/archives/installer/)
 3. [Install Apache Tomcat](https://tomcat.apache.org/download-90.cgi)
 4. Copy and run SQL script from resources/init_db.sql
-5. ![Write your properties to ConnectionUtil class](https://github.com/vrnvv/taxi-service/blob/main/connection_util_screen.png)
-6. ![Configure Apache Tomcat version: 9.0.76](https://github.com/vrnvv/taxi-service/blob/main/tomcat_screen.png)
+5. Write your properties to ConnectionUtil class ![connection_util_screen.png](https://github.com/vrnvv/taxi-service/blob/main/connection_util_screen.png)
+6. Configure Apache Tomcat version: 9.0.76 ![tomcat_screen.png](https://github.com/vrnvv/taxi-service/blob/main/tomcat_screen.png)
 7. Run the project
